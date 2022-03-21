@@ -16,6 +16,14 @@
     
 }
 
+
+.row-1 {
+    margin: 20px auto 100px;
+}
+
+.row-2 {
+    margin-bottom: 100px;
+}
 .col {
     float: left;
     width: calc( 100% / 3 - 8px);
