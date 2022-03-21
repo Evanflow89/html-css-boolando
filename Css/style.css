@@ -31,6 +31,18 @@
     display: block;
 }
 
+.product .imgB {
+    display: none;
+}
+
+.product:hover .imgA {
+    display: none;
+}
+
+.product:hover .imgB {
+    display: block;
+}
+
 .heart {
 position: absolute;
 top: 10px;
